@@ -1,0 +1,14 @@
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Inchieunguoclai\Inchieunguoclai\bin\Debug\netcoreapp3.1\Inchieunguoclai.exe
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Inchieunguoclai\Inchieunguoclai\bin\Debug\netcoreapp3.1\Inchieunguoclai.deps.json
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Inchieunguoclai\Inchieunguoclai\bin\Debug\netcoreapp3.1\Inchieunguoclai.runtimeconfig.json
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Inchieunguoclai\Inchieunguoclai\bin\Debug\netcoreapp3.1\Inchieunguoclai.runtimeconfig.dev.json
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Inchieunguoclai\Inchieunguoclai\bin\Debug\netcoreapp3.1\Inchieunguoclai.dll
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Inchieunguoclai\Inchieunguoclai\bin\Debug\netcoreapp3.1\Inchieunguoclai.pdb
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Inchieunguoclai\Inchieunguoclai\obj\Debug\netcoreapp3.1\Inchieunguoclai.csproj.AssemblyReference.cache
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Inchieunguoclai\Inchieunguoclai\obj\Debug\netcoreapp3.1\Inchieunguoclai.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Inchieunguoclai\Inchieunguoclai\obj\Debug\netcoreapp3.1\Inchieunguoclai.AssemblyInfoInputs.cache
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Inchieunguoclai\Inchieunguoclai\obj\Debug\netcoreapp3.1\Inchieunguoclai.AssemblyInfo.cs
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Inchieunguoclai\Inchieunguoclai\obj\Debug\netcoreapp3.1\Inchieunguoclai.csproj.CoreCompileInputs.cache
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Inchieunguoclai\Inchieunguoclai\obj\Debug\netcoreapp3.1\Inchieunguoclai.dll
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Inchieunguoclai\Inchieunguoclai\obj\Debug\netcoreapp3.1\Inchieunguoclai.pdb
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Inchieunguoclai\Inchieunguoclai\obj\Debug\netcoreapp3.1\Inchieunguoclai.genruntimeconfig.cache

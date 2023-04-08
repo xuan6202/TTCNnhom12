@@ -1,0 +1,14 @@
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Kiemtrasohoanhao\Kiemtrasohoanhao\bin\Debug\netcoreapp3.1\Kiemtrasohoanhao.exe
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Kiemtrasohoanhao\Kiemtrasohoanhao\bin\Debug\netcoreapp3.1\Kiemtrasohoanhao.deps.json
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Kiemtrasohoanhao\Kiemtrasohoanhao\bin\Debug\netcoreapp3.1\Kiemtrasohoanhao.runtimeconfig.json
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Kiemtrasohoanhao\Kiemtrasohoanhao\bin\Debug\netcoreapp3.1\Kiemtrasohoanhao.runtimeconfig.dev.json
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Kiemtrasohoanhao\Kiemtrasohoanhao\bin\Debug\netcoreapp3.1\Kiemtrasohoanhao.dll
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Kiemtrasohoanhao\Kiemtrasohoanhao\bin\Debug\netcoreapp3.1\Kiemtrasohoanhao.pdb
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Kiemtrasohoanhao\Kiemtrasohoanhao\obj\Debug\netcoreapp3.1\Kiemtrasohoanhao.csproj.AssemblyReference.cache
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Kiemtrasohoanhao\Kiemtrasohoanhao\obj\Debug\netcoreapp3.1\Kiemtrasohoanhao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Kiemtrasohoanhao\Kiemtrasohoanhao\obj\Debug\netcoreapp3.1\Kiemtrasohoanhao.AssemblyInfoInputs.cache
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Kiemtrasohoanhao\Kiemtrasohoanhao\obj\Debug\netcoreapp3.1\Kiemtrasohoanhao.AssemblyInfo.cs
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Kiemtrasohoanhao\Kiemtrasohoanhao\obj\Debug\netcoreapp3.1\Kiemtrasohoanhao.csproj.CoreCompileInputs.cache
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Kiemtrasohoanhao\Kiemtrasohoanhao\obj\Debug\netcoreapp3.1\Kiemtrasohoanhao.dll
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Kiemtrasohoanhao\Kiemtrasohoanhao\obj\Debug\netcoreapp3.1\Kiemtrasohoanhao.pdb
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Kiemtrasohoanhao\Kiemtrasohoanhao\obj\Debug\netcoreapp3.1\Kiemtrasohoanhao.genruntimeconfig.cache

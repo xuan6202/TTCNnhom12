@@ -1,0 +1,14 @@
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Vekimcuong\Vekimcuong\bin\Debug\netcoreapp3.1\Vekimcuong.exe
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Vekimcuong\Vekimcuong\bin\Debug\netcoreapp3.1\Vekimcuong.deps.json
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Vekimcuong\Vekimcuong\bin\Debug\netcoreapp3.1\Vekimcuong.runtimeconfig.json
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Vekimcuong\Vekimcuong\bin\Debug\netcoreapp3.1\Vekimcuong.runtimeconfig.dev.json
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Vekimcuong\Vekimcuong\bin\Debug\netcoreapp3.1\Vekimcuong.dll
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Vekimcuong\Vekimcuong\bin\Debug\netcoreapp3.1\Vekimcuong.pdb
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Vekimcuong\Vekimcuong\obj\Debug\netcoreapp3.1\Vekimcuong.csproj.AssemblyReference.cache
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Vekimcuong\Vekimcuong\obj\Debug\netcoreapp3.1\Vekimcuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Vekimcuong\Vekimcuong\obj\Debug\netcoreapp3.1\Vekimcuong.AssemblyInfoInputs.cache
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Vekimcuong\Vekimcuong\obj\Debug\netcoreapp3.1\Vekimcuong.AssemblyInfo.cs
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Vekimcuong\Vekimcuong\obj\Debug\netcoreapp3.1\Vekimcuong.csproj.CoreCompileInputs.cache
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Vekimcuong\Vekimcuong\obj\Debug\netcoreapp3.1\Vekimcuong.dll
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Vekimcuong\Vekimcuong\obj\Debug\netcoreapp3.1\Vekimcuong.pdb
+D:\Ki6\ThucTapChuyenNganh\Tuan4.2.vonglap\Vekimcuong\Vekimcuong\obj\Debug\netcoreapp3.1\Vekimcuong.genruntimeconfig.cache
