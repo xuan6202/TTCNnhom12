@@ -1,0 +1,14 @@
+D:\Ki6\ThucTapChuyenNganh\Tuan4.1\Tuan4.1\obj\Debug\netcoreapp3.1\Tuan4.1.csproj.AssemblyReference.cache
+D:\Ki6\ThucTapChuyenNganh\Tuan4.1\Tuan4.1\obj\Debug\netcoreapp3.1\Tuan4.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki6\ThucTapChuyenNganh\Tuan4.1\Tuan4.1\obj\Debug\netcoreapp3.1\Tuan4.1.AssemblyInfoInputs.cache
+D:\Ki6\ThucTapChuyenNganh\Tuan4.1\Tuan4.1\obj\Debug\netcoreapp3.1\Tuan4.1.AssemblyInfo.cs
+D:\Ki6\ThucTapChuyenNganh\Tuan4.1\Tuan4.1\obj\Debug\netcoreapp3.1\Tuan4.1.csproj.CoreCompileInputs.cache
+D:\Ki6\ThucTapChuyenNganh\Tuan4.1\Tuan4.1\bin\Debug\netcoreapp3.1\Tuan4.1.exe
+D:\Ki6\ThucTapChuyenNganh\Tuan4.1\Tuan4.1\bin\Debug\netcoreapp3.1\Tuan4.1.deps.json
+D:\Ki6\ThucTapChuyenNganh\Tuan4.1\Tuan4.1\bin\Debug\netcoreapp3.1\Tuan4.1.runtimeconfig.json
+D:\Ki6\ThucTapChuyenNganh\Tuan4.1\Tuan4.1\bin\Debug\netcoreapp3.1\Tuan4.1.runtimeconfig.dev.json
+D:\Ki6\ThucTapChuyenNganh\Tuan4.1\Tuan4.1\bin\Debug\netcoreapp3.1\Tuan4.1.dll
+D:\Ki6\ThucTapChuyenNganh\Tuan4.1\Tuan4.1\bin\Debug\netcoreapp3.1\Tuan4.1.pdb
+D:\Ki6\ThucTapChuyenNganh\Tuan4.1\Tuan4.1\obj\Debug\netcoreapp3.1\Tuan4.1.dll
+D:\Ki6\ThucTapChuyenNganh\Tuan4.1\Tuan4.1\obj\Debug\netcoreapp3.1\Tuan4.1.pdb
+D:\Ki6\ThucTapChuyenNganh\Tuan4.1\Tuan4.1\obj\Debug\netcoreapp3.1\Tuan4.1.genruntimeconfig.cache
