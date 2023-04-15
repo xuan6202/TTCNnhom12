@@ -1,0 +1,14 @@
+D:\Ki6\ThucTapChuyenNganh\Tuan5\MaTranChuyenVi\MaTranChuyenVi\bin\Debug\netcoreapp3.1\MaTranChuyenVi.exe
+D:\Ki6\ThucTapChuyenNganh\Tuan5\MaTranChuyenVi\MaTranChuyenVi\bin\Debug\netcoreapp3.1\MaTranChuyenVi.deps.json
+D:\Ki6\ThucTapChuyenNganh\Tuan5\MaTranChuyenVi\MaTranChuyenVi\bin\Debug\netcoreapp3.1\MaTranChuyenVi.runtimeconfig.json
+D:\Ki6\ThucTapChuyenNganh\Tuan5\MaTranChuyenVi\MaTranChuyenVi\bin\Debug\netcoreapp3.1\MaTranChuyenVi.runtimeconfig.dev.json
+D:\Ki6\ThucTapChuyenNganh\Tuan5\MaTranChuyenVi\MaTranChuyenVi\bin\Debug\netcoreapp3.1\MaTranChuyenVi.dll
+D:\Ki6\ThucTapChuyenNganh\Tuan5\MaTranChuyenVi\MaTranChuyenVi\bin\Debug\netcoreapp3.1\MaTranChuyenVi.pdb
+D:\Ki6\ThucTapChuyenNganh\Tuan5\MaTranChuyenVi\MaTranChuyenVi\obj\Debug\netcoreapp3.1\MaTranChuyenVi.csproj.AssemblyReference.cache
+D:\Ki6\ThucTapChuyenNganh\Tuan5\MaTranChuyenVi\MaTranChuyenVi\obj\Debug\netcoreapp3.1\MaTranChuyenVi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki6\ThucTapChuyenNganh\Tuan5\MaTranChuyenVi\MaTranChuyenVi\obj\Debug\netcoreapp3.1\MaTranChuyenVi.AssemblyInfoInputs.cache
+D:\Ki6\ThucTapChuyenNganh\Tuan5\MaTranChuyenVi\MaTranChuyenVi\obj\Debug\netcoreapp3.1\MaTranChuyenVi.AssemblyInfo.cs
+D:\Ki6\ThucTapChuyenNganh\Tuan5\MaTranChuyenVi\MaTranChuyenVi\obj\Debug\netcoreapp3.1\MaTranChuyenVi.csproj.CoreCompileInputs.cache
+D:\Ki6\ThucTapChuyenNganh\Tuan5\MaTranChuyenVi\MaTranChuyenVi\obj\Debug\netcoreapp3.1\MaTranChuyenVi.dll
+D:\Ki6\ThucTapChuyenNganh\Tuan5\MaTranChuyenVi\MaTranChuyenVi\obj\Debug\netcoreapp3.1\MaTranChuyenVi.pdb
+D:\Ki6\ThucTapChuyenNganh\Tuan5\MaTranChuyenVi\MaTranChuyenVi\obj\Debug\netcoreapp3.1\MaTranChuyenVi.genruntimeconfig.cache
