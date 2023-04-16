@@ -1,0 +1,14 @@
+D:\Ki6\ThucTapChuyenNganh\Tuan5\NhanMaTran\NhanMaTran\bin\Debug\netcoreapp3.1\NhanMaTran.exe
+D:\Ki6\ThucTapChuyenNganh\Tuan5\NhanMaTran\NhanMaTran\bin\Debug\netcoreapp3.1\NhanMaTran.deps.json
+D:\Ki6\ThucTapChuyenNganh\Tuan5\NhanMaTran\NhanMaTran\bin\Debug\netcoreapp3.1\NhanMaTran.runtimeconfig.json
+D:\Ki6\ThucTapChuyenNganh\Tuan5\NhanMaTran\NhanMaTran\bin\Debug\netcoreapp3.1\NhanMaTran.runtimeconfig.dev.json
+D:\Ki6\ThucTapChuyenNganh\Tuan5\NhanMaTran\NhanMaTran\bin\Debug\netcoreapp3.1\NhanMaTran.dll
+D:\Ki6\ThucTapChuyenNganh\Tuan5\NhanMaTran\NhanMaTran\bin\Debug\netcoreapp3.1\NhanMaTran.pdb
+D:\Ki6\ThucTapChuyenNganh\Tuan5\NhanMaTran\NhanMaTran\obj\Debug\netcoreapp3.1\NhanMaTran.csproj.AssemblyReference.cache
+D:\Ki6\ThucTapChuyenNganh\Tuan5\NhanMaTran\NhanMaTran\obj\Debug\netcoreapp3.1\NhanMaTran.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki6\ThucTapChuyenNganh\Tuan5\NhanMaTran\NhanMaTran\obj\Debug\netcoreapp3.1\NhanMaTran.AssemblyInfoInputs.cache
+D:\Ki6\ThucTapChuyenNganh\Tuan5\NhanMaTran\NhanMaTran\obj\Debug\netcoreapp3.1\NhanMaTran.AssemblyInfo.cs
+D:\Ki6\ThucTapChuyenNganh\Tuan5\NhanMaTran\NhanMaTran\obj\Debug\netcoreapp3.1\NhanMaTran.csproj.CoreCompileInputs.cache
+D:\Ki6\ThucTapChuyenNganh\Tuan5\NhanMaTran\NhanMaTran\obj\Debug\netcoreapp3.1\NhanMaTran.dll
+D:\Ki6\ThucTapChuyenNganh\Tuan5\NhanMaTran\NhanMaTran\obj\Debug\netcoreapp3.1\NhanMaTran.pdb
+D:\Ki6\ThucTapChuyenNganh\Tuan5\NhanMaTran\NhanMaTran\obj\Debug\netcoreapp3.1\NhanMaTran.genruntimeconfig.cache
