@@ -1,0 +1,14 @@
+D:\Ki6\ThucTapChuyenNganh\SapxepChon\SapxepChon\bin\Debug\netcoreapp3.1\SapxepChon.exe
+D:\Ki6\ThucTapChuyenNganh\SapxepChon\SapxepChon\bin\Debug\netcoreapp3.1\SapxepChon.deps.json
+D:\Ki6\ThucTapChuyenNganh\SapxepChon\SapxepChon\bin\Debug\netcoreapp3.1\SapxepChon.runtimeconfig.json
+D:\Ki6\ThucTapChuyenNganh\SapxepChon\SapxepChon\bin\Debug\netcoreapp3.1\SapxepChon.runtimeconfig.dev.json
+D:\Ki6\ThucTapChuyenNganh\SapxepChon\SapxepChon\bin\Debug\netcoreapp3.1\SapxepChon.dll
+D:\Ki6\ThucTapChuyenNganh\SapxepChon\SapxepChon\bin\Debug\netcoreapp3.1\SapxepChon.pdb
+D:\Ki6\ThucTapChuyenNganh\SapxepChon\SapxepChon\obj\Debug\netcoreapp3.1\SapxepChon.csproj.AssemblyReference.cache
+D:\Ki6\ThucTapChuyenNganh\SapxepChon\SapxepChon\obj\Debug\netcoreapp3.1\SapxepChon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki6\ThucTapChuyenNganh\SapxepChon\SapxepChon\obj\Debug\netcoreapp3.1\SapxepChon.AssemblyInfoInputs.cache
+D:\Ki6\ThucTapChuyenNganh\SapxepChon\SapxepChon\obj\Debug\netcoreapp3.1\SapxepChon.AssemblyInfo.cs
+D:\Ki6\ThucTapChuyenNganh\SapxepChon\SapxepChon\obj\Debug\netcoreapp3.1\SapxepChon.csproj.CoreCompileInputs.cache
+D:\Ki6\ThucTapChuyenNganh\SapxepChon\SapxepChon\obj\Debug\netcoreapp3.1\SapxepChon.dll
+D:\Ki6\ThucTapChuyenNganh\SapxepChon\SapxepChon\obj\Debug\netcoreapp3.1\SapxepChon.pdb
+D:\Ki6\ThucTapChuyenNganh\SapxepChon\SapxepChon\obj\Debug\netcoreapp3.1\SapxepChon.genruntimeconfig.cache
