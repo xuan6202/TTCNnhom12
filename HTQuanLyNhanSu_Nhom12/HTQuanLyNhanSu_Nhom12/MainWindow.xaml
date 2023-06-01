@@ -1,0 +1,17 @@
+﻿<Window x:Class="HTQuanLyNhanSu_Nhom12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HTQuanLyNhanSu_Nhom12"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1000">
+    <Grid Background="#FFE4EBE9">
+        <Label Content="Menu Chính" HorizontalAlignment="Center" Margin="0,57,0,0" VerticalAlignment="Top" Height="81" Width="360" FontSize="48" FontWeight="Bold" FontStyle="Normal" Background="{x:Null}" Foreground="#FFFA0606" FontFamily="Georgia"/>
+        <Button x:Name="btnQLNV" Content="Quản Lý Nhân Viên" HorizontalAlignment="Left" Margin="34,179,0,0" VerticalAlignment="Top" FontSize="36" FontWeight="Bold" Background="#FF3D99E5" Width="360"/>
+        <Button x:Name="btnQLPB" Content="Quản Lý Phòng Ban" HorizontalAlignment="Left" Margin="242,292,0,0" VerticalAlignment="Top" FontSize="36" FontWeight="Bold" Click="btnQLPB_Click" Background="#FF48F12F" Width="374"/>
+        <Button  x:Name="btnQLDA" Content="Quản Lý Dự Án" HorizontalAlignment="Left" Margin="500,397,0,0" VerticalAlignment="Top" FontSize="36" FontWeight="Bold" Background="#FFE25FE8" Width="303"/>
+        <Button Content=" Thoát  " HorizontalAlignment="Left" Margin="34,29,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Click="Button_Click" Background="#FFFCF8F8" Width="103"/>
+
+    </Grid>
+</Window>
