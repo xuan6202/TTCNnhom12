@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JKCUTy4iUflNvbtFpooVTT3LzGchNUVyjmbzdSLbiJJz3tOIGtMAUGZmu6S/pTIVN1o1tNQHGgrHDS+wsslBbA==",
+  "success": true,
+  "projectFilePath": "D:\\Ki5\\.Net\\HoangThiXuan_2020605328\\Bai2\\Bai2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
