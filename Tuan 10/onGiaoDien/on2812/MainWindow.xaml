@@ -1,0 +1,67 @@
+﻿<Window x:Class="on2812.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:on2812"
+        mc:Ignorable="d" Loaded="Window_Loaded"
+        Title="MainWindow" Height="600" Width="800" FontFamily="Times New Roman" FontSize="18">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Width" Value="80"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Margin" Value="3"/>
+            <Setter Property="Background" Value="Cyan"/>
+            <Setter Property="Foreground" Value="#fff"/>
+            <Style.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="20"/>
+                </Style>
+            </Style.Resources>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="true">
+                    <Setter Property="Foreground" Value="#000"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Label Content="Mã sinh viên: " HorizontalAlignment="Left" Margin="50,50,0,0" VerticalAlignment="Top" Width="200" Height="30"/>
+        <Label Content="Họ tên: " HorizontalAlignment="Left" Margin="50,100,0,0" VerticalAlignment="Top" Width="200" Height="30"/>
+        <Label Content="Địa chỉ: " HorizontalAlignment="Left" Margin="50,150,0,0" VerticalAlignment="Top" Width="200" Height="30"/>
+        <Label Content="Điểm: " HorizontalAlignment="Left" Margin="50,200,0,0" VerticalAlignment="Top" Width="200" Height="30"/>
+        <Label Content="Lớp học: " HorizontalAlignment="Left" Margin="50,250,0,0" VerticalAlignment="Top" Width="200" Height="30"/>
+        <TextBox Name="txtmsv" HorizontalAlignment="Left" Margin="300,50,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30"/>
+        <TextBox Name="txthoten" HorizontalAlignment="Left" Margin="300,100,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30"/>
+        <TextBox Name="txtdiem" HorizontalAlignment="Left" Margin="300,200,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30"/>
+        <ComboBox Name="cbodiachi" HorizontalAlignment="Left" Margin="300,150,0,0" VerticalAlignment="Top" Width="200" Height="30" SelectedIndex="0">
+            <ComboBoxItem>Hà Nội</ComboBoxItem>
+            <ComboBoxItem>Thái Bình</ComboBoxItem>
+            <ComboBoxItem>Hải Phòng</ComboBoxItem>
+            <ComboBoxItem>Quảng Ninh</ComboBoxItem>
+        </ComboBox>
+        <ComboBox Name="cbolophoc" HorizontalAlignment="Left" Margin="300,250,0,0" VerticalAlignment="Top" Width="200" Height="30" SelectedIndex="0">
+            <!--<ComboBoxItem>Khoa học máy tính</ComboBoxItem>
+            <ComboBoxItem>Công nghệ thông tin</ComboBoxItem>
+            <ComboBoxItem>Kĩ thuật phần mềm</ComboBoxItem>
+            <ComboBoxItem>Hệ thống thông tin</ComboBoxItem>-->
+        </ComboBox>
+        <DataGrid x:Name="dgDanhSach" Margin="30 280 30 100" 
+                  AutoGenerateColumns="False"
+                  AlternatingRowBackground="AntiqueWhite"
+                  CanUserAddRows="False" SelectedCellsChanged="dgDanhSach_SelectedCellsChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã sv" Binding="{Binding Masv}" Width="*"/>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding Hoten}" Width="*"/>
+                <DataGridTextColumn Header="Địa chỉ" Binding="{Binding Diachi}" Width="*"/>
+                <DataGridTextColumn Header="Điểm" Binding="{Binding Diem}" Width="*"/>
+                <DataGridTextColumn Header="Mã lớp" Binding="{Binding Malop}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Name="btnThem" Content="Thêm" HorizontalAlignment="Left" Margin="100,500,0,0" VerticalAlignment="Top" Width="80" Height="30" Click="btnThem_Click"/>
+        <Button Name="btnSua" Content="Sửa" HorizontalAlignment="Left" Margin="220,500,0,0" VerticalAlignment="Top" Width="80" Height="30" Click="btnSua_Click"/>
+        <Button Name="btnXoa" Content="Xóa" HorizontalAlignment="Left" Margin="340,500,0,0" VerticalAlignment="Top" Width="80" Height="30" Click="btnXoa_Click"/>
+        <Button Name="btnTim" Content="Tìm" HorizontalAlignment="Left" Margin="460,500,0,0" VerticalAlignment="Top" Width="80" Height="30" Click="btnTim_Click"/>
+        
+    </Grid>
+</Window>

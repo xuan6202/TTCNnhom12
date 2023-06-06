@@ -1,0 +1,14 @@
+D:\Ki6\ThucTapChuyenNganh\SV\SV\bin\Debug\netcoreapp3.1\SV.exe
+D:\Ki6\ThucTapChuyenNganh\SV\SV\bin\Debug\netcoreapp3.1\SV.deps.json
+D:\Ki6\ThucTapChuyenNganh\SV\SV\bin\Debug\netcoreapp3.1\SV.runtimeconfig.json
+D:\Ki6\ThucTapChuyenNganh\SV\SV\bin\Debug\netcoreapp3.1\SV.runtimeconfig.dev.json
+D:\Ki6\ThucTapChuyenNganh\SV\SV\bin\Debug\netcoreapp3.1\SV.dll
+D:\Ki6\ThucTapChuyenNganh\SV\SV\bin\Debug\netcoreapp3.1\SV.pdb
+D:\Ki6\ThucTapChuyenNganh\SV\SV\obj\Debug\netcoreapp3.1\SV.csproj.AssemblyReference.cache
+D:\Ki6\ThucTapChuyenNganh\SV\SV\obj\Debug\netcoreapp3.1\SV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki6\ThucTapChuyenNganh\SV\SV\obj\Debug\netcoreapp3.1\SV.AssemblyInfoInputs.cache
+D:\Ki6\ThucTapChuyenNganh\SV\SV\obj\Debug\netcoreapp3.1\SV.AssemblyInfo.cs
+D:\Ki6\ThucTapChuyenNganh\SV\SV\obj\Debug\netcoreapp3.1\SV.csproj.CoreCompileInputs.cache
+D:\Ki6\ThucTapChuyenNganh\SV\SV\obj\Debug\netcoreapp3.1\SV.dll
+D:\Ki6\ThucTapChuyenNganh\SV\SV\obj\Debug\netcoreapp3.1\SV.pdb
+D:\Ki6\ThucTapChuyenNganh\SV\SV\obj\Debug\netcoreapp3.1\SV.genruntimeconfig.cache

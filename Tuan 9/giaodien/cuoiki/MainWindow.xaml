@@ -1,0 +1,49 @@
+﻿<Window x:Class="cuoiki.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:cuoiki"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800" FontFamily="Times New Roman" FontSize="15" Loaded="Window_Loaded">
+    <Grid>
+        <Label Content="Mã sinh viên: " HorizontalAlignment="Left" Margin="50,30,0,0" VerticalAlignment="Top" Width="200" Height="30"/>
+        <Label Content="Họ tên: " HorizontalAlignment="Left" Margin="50,80,0,0" VerticalAlignment="Top" Width="200" Height="30"/>
+        <Label Content="Địa chỉ: " HorizontalAlignment="Left" Margin="50,130,0,0" VerticalAlignment="Top" Width="200" Height="30"/>
+        <Label Content="Điểm: " HorizontalAlignment="Left" Margin="50,180,0,0" VerticalAlignment="Top" Width="200" Height="30"/>
+        <Label Content="Học lớp: " HorizontalAlignment="Left" Margin="50,230,0,0" VerticalAlignment="Top" Width="200" Height="30"/>
+        <TextBox Name="txtmsv" HorizontalAlignment="Left" Margin="300,30,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30"/>
+        <TextBox Name="txthoten" HorizontalAlignment="Left" Margin="300,80,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30"/>
+        <ComboBox Name="cbodiachi" HorizontalAlignment="Left" Margin="300,130,0,0" VerticalAlignment="Top" Width="200" Height="30" SelectedIndex="0">
+            <ComboBoxItem>Hà Nội</ComboBoxItem>
+            <ComboBoxItem>Thái Bình</ComboBoxItem>
+            <ComboBoxItem>Hải Phòng</ComboBoxItem>
+            <ComboBoxItem>Quảng Ninh</ComboBoxItem>
+        </ComboBox>
+        <TextBox Name="txtdiem" HorizontalAlignment="Left" Margin="300,180,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30"/>
+        <ComboBox Name="cbolop" HorizontalAlignment="Left" Margin="300,230,0,0" VerticalAlignment="Top" Width="200" Height="30" SelectedIndex="0">
+            <ComboBoxItem>Khoa học máy tính</ComboBoxItem>
+            <ComboBoxItem>Công nghệ thông tin</ComboBoxItem>
+            <ComboBoxItem>Kĩ thuật phần mềm</ComboBoxItem>
+            <ComboBoxItem>hệ thống thông tin</ComboBoxItem>
+        </ComboBox>
+
+        <DataGrid x:Name="dgvSinhvien" Margin="30 280 30 50"
+                  AutoGenerateColumns="False"
+                  AlternatingRowBackground="AntiqueWhite"
+                  CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã SV" Binding="{Binding MaSv}" Width="*"/>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding HoTen}" Width="*"/>
+                <DataGridTextColumn Header="Địa chỉ" Binding="{Binding DiaChi}" Width="*"/>
+                <DataGridTextColumn Header="Điểm" Binding="{Binding Diem}" Width="*"/>
+                <DataGridTextColumn Header="Mã lớp" Binding="{Binding Diem}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Name="butThem" Content="Thêm" HorizontalAlignment="Left" Margin="100,550,0,0" VerticalAlignment="Top" Width="80" Height="30"/>
+        <Button Name="butSua" Content="Sửa" HorizontalAlignment="Left" Margin="250,550,0,0" VerticalAlignment="Top" Width="80" Height="30"/>
+        <Button Name="butXoa" Content="Xóa" HorizontalAlignment="Left" Margin="400,550,0,0" VerticalAlignment="Top" Width="80" Height="30"/>
+        <Button Name="butTim" Content="Tìm" HorizontalAlignment="Left" Margin="550,550,0,0" VerticalAlignment="Top" Width="80" Height="30"/>
+
+    </Grid>
+</Window>
