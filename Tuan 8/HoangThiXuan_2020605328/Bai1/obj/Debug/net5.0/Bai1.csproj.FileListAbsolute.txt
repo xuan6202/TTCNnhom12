@@ -1,0 +1,16 @@
+D:\HoangThiXuan_2020605328\Bai1\obj\Debug\net5.0\Bai1.csproj.AssemblyReference.cache
+D:\HoangThiXuan_2020605328\Bai1\obj\Debug\net5.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HoangThiXuan_2020605328\Bai1\obj\Debug\net5.0\Bai1.AssemblyInfoInputs.cache
+D:\HoangThiXuan_2020605328\Bai1\obj\Debug\net5.0\Bai1.AssemblyInfo.cs
+D:\HoangThiXuan_2020605328\Bai1\obj\Debug\net5.0\Bai1.csproj.CoreCompileInputs.cache
+D:\HoangThiXuan_2020605328\Bai1\bin\Debug\net5.0\Bai1.exe
+D:\HoangThiXuan_2020605328\Bai1\bin\Debug\net5.0\Bai1.deps.json
+D:\HoangThiXuan_2020605328\Bai1\bin\Debug\net5.0\Bai1.runtimeconfig.json
+D:\HoangThiXuan_2020605328\Bai1\bin\Debug\net5.0\Bai1.runtimeconfig.dev.json
+D:\HoangThiXuan_2020605328\Bai1\bin\Debug\net5.0\Bai1.dll
+D:\HoangThiXuan_2020605328\Bai1\bin\Debug\net5.0\ref\Bai1.dll
+D:\HoangThiXuan_2020605328\Bai1\bin\Debug\net5.0\Bai1.pdb
+D:\HoangThiXuan_2020605328\Bai1\obj\Debug\net5.0\Bai1.dll
+D:\HoangThiXuan_2020605328\Bai1\obj\Debug\net5.0\ref\Bai1.dll
+D:\HoangThiXuan_2020605328\Bai1\obj\Debug\net5.0\Bai1.pdb
+D:\HoangThiXuan_2020605328\Bai1\obj\Debug\net5.0\Bai1.genruntimeconfig.cache

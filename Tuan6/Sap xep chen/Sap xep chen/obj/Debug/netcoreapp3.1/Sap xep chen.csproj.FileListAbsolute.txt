@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Sap xep chen\Sap xep chen\bin\Debug\netcoreapp3.1\Sap xep chen.exe
+C:\Users\Admin\source\repos\Sap xep chen\Sap xep chen\bin\Debug\netcoreapp3.1\Sap xep chen.deps.json
+C:\Users\Admin\source\repos\Sap xep chen\Sap xep chen\bin\Debug\netcoreapp3.1\Sap xep chen.runtimeconfig.json
+C:\Users\Admin\source\repos\Sap xep chen\Sap xep chen\bin\Debug\netcoreapp3.1\Sap xep chen.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Sap xep chen\Sap xep chen\bin\Debug\netcoreapp3.1\Sap xep chen.dll
+C:\Users\Admin\source\repos\Sap xep chen\Sap xep chen\bin\Debug\netcoreapp3.1\Sap xep chen.pdb
+C:\Users\Admin\source\repos\Sap xep chen\Sap xep chen\obj\Debug\netcoreapp3.1\Sap xep chen.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Sap xep chen\Sap xep chen\obj\Debug\netcoreapp3.1\Sap xep chen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Sap xep chen\Sap xep chen\obj\Debug\netcoreapp3.1\Sap xep chen.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Sap xep chen\Sap xep chen\obj\Debug\netcoreapp3.1\Sap xep chen.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Sap xep chen\Sap xep chen\obj\Debug\netcoreapp3.1\Sap xep chen.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Sap xep chen\Sap xep chen\obj\Debug\netcoreapp3.1\Sap xep chen.dll
+C:\Users\Admin\source\repos\Sap xep chen\Sap xep chen\obj\Debug\netcoreapp3.1\Sap xep chen.pdb
+C:\Users\Admin\source\repos\Sap xep chen\Sap xep chen\obj\Debug\netcoreapp3.1\Sap xep chen.genruntimeconfig.cache
