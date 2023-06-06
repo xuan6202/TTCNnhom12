@@ -1,0 +1,15 @@
+C:\Users\Dell\Downloads\BaiTapHDT\BaiTapHDT\bin\Debug\net6.0\BaiTapHDT.exe
+C:\Users\Dell\Downloads\BaiTapHDT\BaiTapHDT\bin\Debug\net6.0\BaiTapHDT.deps.json
+C:\Users\Dell\Downloads\BaiTapHDT\BaiTapHDT\bin\Debug\net6.0\BaiTapHDT.runtimeconfig.json
+C:\Users\Dell\Downloads\BaiTapHDT\BaiTapHDT\bin\Debug\net6.0\BaiTapHDT.dll
+C:\Users\Dell\Downloads\BaiTapHDT\BaiTapHDT\bin\Debug\net6.0\BaiTapHDT.pdb
+C:\Users\Dell\Downloads\BaiTapHDT\BaiTapHDT\obj\Debug\net6.0\BaiTapHDT.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\BaiTapHDT\BaiTapHDT\obj\Debug\net6.0\BaiTapHDT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\BaiTapHDT\BaiTapHDT\obj\Debug\net6.0\BaiTapHDT.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\BaiTapHDT\BaiTapHDT\obj\Debug\net6.0\BaiTapHDT.AssemblyInfo.cs
+C:\Users\Dell\Downloads\BaiTapHDT\BaiTapHDT\obj\Debug\net6.0\BaiTapHDT.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\BaiTapHDT\BaiTapHDT\obj\Debug\net6.0\BaiTapHDT.dll
+C:\Users\Dell\Downloads\BaiTapHDT\BaiTapHDT\obj\Debug\net6.0\refint\BaiTapHDT.dll
+C:\Users\Dell\Downloads\BaiTapHDT\BaiTapHDT\obj\Debug\net6.0\BaiTapHDT.pdb
+C:\Users\Dell\Downloads\BaiTapHDT\BaiTapHDT\obj\Debug\net6.0\BaiTapHDT.genruntimeconfig.cache
+C:\Users\Dell\Downloads\BaiTapHDT\BaiTapHDT\obj\Debug\net6.0\ref\BaiTapHDT.dll
